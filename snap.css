@@ -4,10 +4,10 @@
   right: 0;
   bottom: 0;
   left: 0;
-  width: auto;
-  height: auto;
+  /*width: auto;
+  height: auto;*/
   z-index: 2;
-  overflow: auto;
+  /*overflow: auto;*/
   -webkit-overflow-scrolling: touch;
   -webkit-transform: translate3d(0, 0, 0);
      -moz-transform: translate3d(0, 0, 0);
@@ -32,7 +32,7 @@
   right: auto;
   bottom: 0;
   left: auto;
-  width: 265px;
+  width: 250px;
   height: auto;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
